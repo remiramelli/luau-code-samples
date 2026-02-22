@@ -5,4 +5,4 @@ A collection of standalone Luau modules demonstrating my coding style and archit
 ## Repository Contents
 
 ### 1. Analytical Spring Module (src/SpringModule.luau)
-A custom mathematics module used for procedural animations, UI interpolation, and weapon recoil.
+A custom mathematics module used for procedural animations, camera movement and weapon recoil.
